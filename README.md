@@ -40,3 +40,18 @@ steps of compile,
 
     $firstName  ; since $lastName = "firstName"
     Now just put the value of $firstName. so o/p is sourav
+
+### constant
+
+    define("name","Sourav Majumder");
+    define("age",24);
+
+    echo name;
+    echo "<br>";
+    echo age;
+
+    or
+
+    echo "My name is ".name.", my age is".age;
+
+    or echo constant("name");
