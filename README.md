@@ -23,6 +23,9 @@
 
                 echo "Hello ".$firstName.$lastName.",your age is".$age;
             ?>
+
+            <h1>Hello <?php echo $firstName; ?> </h1>
+
         </body>
     </html>
 
