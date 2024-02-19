@@ -25,3 +25,15 @@
             ?>
         </body>
     </html>
+
+### $$variable
+
+    $firstName = "sourav";
+    $lastName = "firstName";
+
+    echo $$lastName   [output -- sourav]
+
+steps of compile,
+
+    $firstName  ; since $lastName = "firstName"
+    Now just put the value of $firstName. so o/p is sourav
