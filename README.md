@@ -96,7 +96,7 @@ first need to include 'function.php' page for database connection with current p
 
 ![Screenshot from 2024-02-25 14-32-34](https://github.com/s0urav6529/phpDoc/assets/96060029/959a4bc1-d088-4b51-b4a7-e965e1f24ae6)
 
-![Screenshot from 2024-02-25 14-31-59](https://github.com/s0urav6529/phpDoc/assets/96060029/405be6fd-9e6d-4a7a-9f16-1a6ee087fcbe)
+![Screenshot from 2024-02-25 16-15-38](https://github.com/s0urav6529/phpDoc/assets/96060029/c781c04e-ffc5-478a-95c9-05e84cfb88c2)
 
 ##### delete the data
 
