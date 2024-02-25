@@ -85,3 +85,9 @@ first need to include 'function.php' page for database connection with current p
 ![Screenshot from 2024-02-25 13-58-07](https://github.com/s0urav6529/phpDoc/assets/96060029/eb8e6b40-ce8b-4768-8a33-e7dfb11d4c54)
 
 ![Screenshot from 2024-02-25 13-56-48](https://github.com/s0urav6529/phpDoc/assets/96060029/3c2c4b2a-07df-4412-aa14-a2df81dc0d64)
+
+#### display data in the table
+
+![Screenshot from 2024-02-25 14-03-46](https://github.com/s0urav6529/phpDoc/assets/96060029/881ce324-ca46-401b-acac-6c8f65a87b21)
+
+![Screenshot from 2024-02-25 14-03-15](https://github.com/s0urav6529/phpDoc/assets/96060029/8fd16248-c41c-4cff-a6ed-1c054fe7c549)
