@@ -63,3 +63,7 @@ steps of compile,
 for retrive the file
 
 ![Screenshot from 2024-02-25 12-55-42](https://github.com/s0urav6529/phpDoc/assets/96060029/868f519a-9eb1-4a35-bb0a-d01efe9946bc)
+
+### Database connection to php
+
+![Screenshot from 2024-02-25 13-27-28](https://github.com/s0urav6529/phpDoc/assets/96060029/7a002f2c-2ce0-45fb-b41b-c5632b18b2cd)
