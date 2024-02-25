@@ -55,3 +55,7 @@ steps of compile,
     echo "My name is ".name.", my age is".age;
 
     or echo constant("name");
+
+# File in Form
+
+    ![Screenshot from 2024-02-25 12-53-19](https://github.com/s0urav6529/phpDoc/assets/96060029/59eb630c-10e6-4821-b44c-d828b7c95b5d)
