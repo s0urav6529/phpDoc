@@ -98,6 +98,12 @@ first need to include 'function.php' page for database connection with current p
 
 ![Screenshot from 2024-02-25 16-15-38](https://github.com/s0urav6529/phpDoc/assets/96060029/c781c04e-ffc5-478a-95c9-05e84cfb88c2)
 
+Data upload after edit
+
+![Screenshot from 2024-02-25 16-27-01](https://github.com/s0urav6529/phpDoc/assets/96060029/6830e851-5571-4ba6-a986-67c3bac75059)
+
+![Screenshot from 2024-02-25 16-27-28](https://github.com/s0urav6529/phpDoc/assets/96060029/b155b5e9-2b78-4a2b-acdd-e19cd7df5155)
+
 ##### delete the data
 
 ![Screenshot from 2024-02-25 16-04-50](https://github.com/s0urav6529/phpDoc/assets/96060029/5bc862cb-4bf0-49a4-a952-bc927440cebd)
