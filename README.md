@@ -86,8 +86,16 @@ first need to include 'function.php' page for database connection with current p
 
 ![Screenshot from 2024-02-25 13-56-48](https://github.com/s0urav6529/phpDoc/assets/96060029/3c2c4b2a-07df-4412-aa14-a2df81dc0d64)
 
-#### display data in the table
+##### display data in the table
 
 ![Screenshot from 2024-02-25 14-03-46](https://github.com/s0urav6529/phpDoc/assets/96060029/881ce324-ca46-401b-acac-6c8f65a87b21)
 
 ![Screenshot from 2024-02-25 14-03-15](https://github.com/s0urav6529/phpDoc/assets/96060029/8fd16248-c41c-4cff-a6ed-1c054fe7c549)
+
+##### delete the data
+
+![Screenshot from 2024-02-25 16-04-50](https://github.com/s0urav6529/phpDoc/assets/96060029/5bc862cb-4bf0-49a4-a952-bc927440cebd)
+
+![Screenshot from 2024-02-25 16-07-01](https://github.com/s0urav6529/phpDoc/assets/96060029/1b1c6d98-f4fa-4530-b259-a52c401c2823)
+
+![Screenshot from 2024-02-25 16-08-00](https://github.com/s0urav6529/phpDoc/assets/96060029/3e792940-178b-4184-b8b1-bafb52ef2cde)
