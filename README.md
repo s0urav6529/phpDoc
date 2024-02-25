@@ -69,3 +69,13 @@ for retrive the file
 ![Screenshot from 2024-02-25 13-27-28](https://github.com/s0urav6529/phpDoc/assets/96060029/7a002f2c-2ce0-45fb-b41b-c5632b18b2cd)
 
 ![Screenshot from 2024-02-25 13-41-53](https://github.com/s0urav6529/phpDoc/assets/96060029/3b94f9bf-9b95-4b70-a463-d5b427be0916)
+
+Now how to use this connection with php page for data CRUD
+
+first need to include 'function.php' page for database connection with current page.
+
+Code for add data to the database
+
+![Screenshot from 2024-02-25 13-50-16](https://github.com/s0urav6529/phpDoc/assets/96060029/9a2bbcaa-3dec-4fa7-804f-23c5817e140c)
+
+![Screenshot from 2024-02-25 13-51-18](https://github.com/s0urav6529/phpDoc/assets/96060029/1b892f61-b705-46bb-b132-af282d0eb44e)
