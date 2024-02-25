@@ -67,3 +67,5 @@ for retrive the file
 ### Database connection to php
 
 ![Screenshot from 2024-02-25 13-27-28](https://github.com/s0urav6529/phpDoc/assets/96060029/7a002f2c-2ce0-45fb-b41b-c5632b18b2cd)
+
+![Screenshot from 2024-02-25 13-41-53](https://github.com/s0urav6529/phpDoc/assets/96060029/3b94f9bf-9b95-4b70-a463-d5b427be0916)
